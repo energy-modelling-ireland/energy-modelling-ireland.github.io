@@ -6,4 +6,4 @@ theme:
 plugins:
     - redirects:
         redirect_maps:
-            'index.md': 'https://energy-modelling-ireland.github.io/ireland-energy-wiki/'
+            'index.md': 'https://energy-modelling-ireland.github.io/ireland-energy-wiki/index.html'
