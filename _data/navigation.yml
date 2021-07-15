@@ -1,11 +1,13 @@
 main:
+  - title: "Wiki"
+    url: /wiki/
+  - title: "ibsg"
+    url: /ibsg/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Wiki"
-    url: /wiki/
   - title: "About"
     url: /about/
