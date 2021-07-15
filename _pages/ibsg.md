@@ -3,7 +3,7 @@ title: "ibsg"
 author_profile: false
 categories:
   - apps
-permalink: /ibsg.html
+permalink: /ibsg/
 layout: default
 ---
 <style type="text/css">
