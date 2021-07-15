@@ -1,0 +1,13 @@
+Jason McGuire:
+  name        : "Jason McGuire"
+  avatar      : "/assets/images/bios/jason-mc-guire.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jason.mcguire@ucc.ie"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jayomacg+"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jason-mc-guire-b45b6966/"
