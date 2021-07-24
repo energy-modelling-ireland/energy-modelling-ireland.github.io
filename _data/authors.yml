@@ -11,3 +11,17 @@ Jason McGuire:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jason-mc-guire-b45b6966/"
+
+Rowan Molony:
+  name        : "Rowan Molony"
+  avatar      : "/assets/images/bios/jason-mc-guire.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rowanmolony@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rdmolony"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rdmolony.github.io"
