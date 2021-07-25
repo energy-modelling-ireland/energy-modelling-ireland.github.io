@@ -1,6 +1,8 @@
 main:
   - title: "Data"
     url: /data/
+  - title: "Tools"
+    url: /tools/
   - title: "ibsg"
     url: /ibsg/
   - title: "Posts"
