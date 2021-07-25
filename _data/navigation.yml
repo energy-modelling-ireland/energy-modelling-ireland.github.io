@@ -1,6 +1,6 @@
 main:
-  - title: "Wiki"
-    url: /wiki/
+  - title: "Data"
+    url: /data/
   - title: "ibsg"
     url: /ibsg/
   - title: "Posts"
@@ -11,3 +11,20 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+data-sidebar:
+  - title: "Boundary Files"
+    url: /data/#boundary-files
+  - title: "Catalogues"
+    url: /data/#catalogues
+  - title: "Demand"
+    url: /data/#demand
+  - title: "Emissions"
+    url: /data/#emissions
+  - title: "Other"
+    url: /data/#other
+  - title: "Supply"
+    url: /data/#supply
+  - title: "Weather"
+    url: /data/#weather
+  
