@@ -1,0 +1,35 @@
+<style> 
+  img.bios { 
+    float: left;  
+    padding-right: 30px;
+    padding-bottom: 10px;
+  }
+  td {
+    float: left;
+  }
+</style> 
+
+{% for author in site.data.authors  %}
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "{{ author[1].avatar }}" width="150">  
+      </div>
+      {{ author[1].bio }}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% for link in author[1].links  %}
+      <a href="{{ link.url }}" rel="nofollow noopener noreferrer me">
+        <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+        <span class="label">{{ link.label }}</span>
+      </a>
+      {% endfor %}
+    </td>
+  </tr>
+</table>
+
+{% endfor %}

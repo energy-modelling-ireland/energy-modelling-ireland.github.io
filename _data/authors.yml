@@ -1,6 +1,10 @@
 Jason McGuire:
   name        : "Jason McGuire"
   avatar      : "/assets/images/bios/jason-mc-guire.png"
+  bio: |
+    Jason Mc Guire is working on building the residential sector in the TIMES energy
+    system optimization model, to provide discussion and inputs for Climate Action Plan 2021.
+    He's also planning to explore Ireland's carbon budgets pathways. 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -11,10 +15,17 @@ Jason McGuire:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jason-mc-guire-b45b6966/"
+    - label: "MaREI"
+      url: "https://www.marei.ie/people/jason-mc-guire/"
+    - label: "Tableau"
+      url: "https://public.tableau.com/app/profile/jason.mc.guire"
 
 Rowan Molony:
   name        : "Rowan Molony"
   avatar      : "/assets/images/bios/rowan-molony.png"
+  bio: |
+    Rowan Molony is an Energy System Modeller at Codema - Dublin's Energy Agency where he is
+    working on the open-source SEAI RD&D funded Dublin Region Energy Masterplan Project.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -22,6 +33,8 @@ Rowan Molony:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rdmolony"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rowan-molony-113bbb155"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
       url: "https://rdmolony.github.io"
