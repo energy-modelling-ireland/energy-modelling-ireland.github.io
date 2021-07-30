@@ -152,6 +152,12 @@ sidebar:
 
 ---
 
+## Finance
+
+- [DEEP](https://deep.eefig.eu) - an open-source database for energy efficiency investments performance monitoring and benchmarking that provides detailed analysis and evidence on the performance of energy efficiency investments to support the assessment of the related benefits and financial risks.
+
+---
+
 
 ## Other
 

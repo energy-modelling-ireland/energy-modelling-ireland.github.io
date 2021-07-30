@@ -23,6 +23,8 @@ data-sidebar:
     url: /data/#demand
   - title: "Emissions"
     url: /data/#emissions
+  - title: "Finance"
+    url: /data/#finance
   - title: "Other"
     url: /data/#other
   - title: "Supply"
